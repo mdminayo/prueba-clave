@@ -1,0 +1,60 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25/07/2018, 03:26:14 PM
+    Author     : PC27
+*/
+
+#banner img{
+    width: 100%;
+    height: 250px;
+}
+
+
+#menu{
+    background-color: black;
+    height: 70px;
+    color: white;
+}
+h3{
+    color: white;
+}
+#menu a{
+    text-decoration: none;
+    color: white;
+    padding: 8px;
+    float: left;
+    margin-top: 25px;
+    
+}
+#menu a:hover{
+    background-color: brown;
+    border-radius: 6px;
+}
+
+#menu h3{
+    float: left;
+    font-size: 32px;
+    margin: 20px 20px;
+    
+}
+.table{
+    margin: 20px auto;
+    background-color: rgba(0,0,0,.5);
+    
+    color: white;
+    
+    
+}
+.table tr{
+    border: 2px solid #84c4e2;
+    
+}
+.table th{
+    padding: 10px;
+}
+
+
